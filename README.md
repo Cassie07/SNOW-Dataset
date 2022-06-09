@@ -7,7 +7,7 @@ SNOW_Dataset_20k.zip
 
 ### SNOW Data
 
-Please unzip SNOW_Dataset_20k.zip
+Please unzip SNOW_Dataset_20k.zip [Here](https://drive.google.com/file/d/1NIS4p2YgtWjg-1I25wB2UH72ONIDtwqr/view?usp=sharing)
 
 ```
 SNOW_Dataset_20k/
