@@ -3,11 +3,11 @@ Dataset access for the paper: SNOW: A Large-scale Synthetic Histopathological Da
 
 
 ### Dataset Access
-SNOW_Dataset_20k.zip
+SNOW_Dataset_20k.zip[Here](https://drive.google.com/file/d/1NIS4p2YgtWjg-1I25wB2UH72ONIDtwqr/view?usp=sharing)
 
 ### SNOW Data
 
-Please unzip SNOW_Dataset_20k.zip [Here](https://drive.google.com/file/d/1NIS4p2YgtWjg-1I25wB2UH72ONIDtwqr/view?usp=sharing)
+Please unzip SNOW_Dataset_20k.zip 
 
 ```
 SNOW_Dataset_20k/
