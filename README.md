@@ -23,5 +23,5 @@ SNOW_Dataset_20k/
 ### Example
 ![Example](https://github.com/Cassie07/SNOW-Dataset/blob/main/examples.png)
 
-### Citation
-Please cite our paper if you use SNOW dataset for any purpose.
+### Citing
+Please cite our paper if you use the SNOW dataset for any purpose.
